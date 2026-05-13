@@ -1,4 +1,4 @@
-# 
+# Enhance Canva for macOS with secure Extension for Canva for macOS - non-destructive editing and content-aware fill, the #1 extension. Includes non-destructive editing and
 
 
 
